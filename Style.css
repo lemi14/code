@@ -8,13 +8,11 @@
 }
 
 .coding {
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  width: 100%;
-  padding: 90px 0px;
-  margin-bottom: 120px;
-}
+    height: 20vh;
+    width: 100%;
+    background-image: url(images/image.jfif);
+    background-size: cover;
+    background-position: center;
 
 nav {
     display: flex;

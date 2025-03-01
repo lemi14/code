@@ -12,7 +12,7 @@
     width: 150%;
     background-image: url(images/image.jfif);
     background-size: cover;
-    background-position: center;
+    background-position: center center;
 	padding: 90px 0px;
 }
 

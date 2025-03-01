@@ -11,8 +11,9 @@
     height: 20vh;
     width: 100%;
     background-image: url(images/image.jfif);
+	  background-size: cover;
     background-position: center;
-  background-size: cover;
+
 
 nav {
     display: flex;
